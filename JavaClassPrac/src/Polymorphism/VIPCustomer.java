@@ -1,4 +1,4 @@
-package inheritance;
+package Polymorphism;
 
 public class VIPCustomer extends Customer{
 	
